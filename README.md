@@ -2,7 +2,7 @@
 
 Deb7 VPSAutoScript is made by PHCarl to minimize the time consumed and user involvement in setting up your VPS
 
-## Services Included in Deb7 VPSAutoScript
+## Services Included in VPSAutoScript
 
 * OpenSSH
 * Dropbear
@@ -15,7 +15,7 @@ Deb7 VPSAutoScript is made by PHCarl to minimize the time consumed and user invo
 * Fail2Ban
 * DDOS Deflate
 
-## Script Commands in Deb7 VPSAutoScript
+## Script Commands in VPSAutoScript
 
 * menu   
 * add 
@@ -30,7 +30,7 @@ Deb7 VPSAutoScript is made by PHCarl to minimize the time consumed and user invo
 * info   
 * about  
 
-### How to Use the Deb7 VPSAutoScript
+### How to Use the VPSAutoScript
 
 All you need to do is Copy and Paste the commands posted below to the console/terminal of your VPS
 
@@ -40,10 +40,10 @@ All you need to do is Copy and Paste the commands posted below to the console/te
 wget https://raw.githubusercontent.com/PHCarl10/VPS/master/VPS_Auto_Script
 ```
 ```
-chmod +x Deb7_AutoScript_VPS
+chmod +x VPS_Auto_Script
 ```
 ```
-./Deb7_AutoScript_VPS
+./VPS_Auto_Script
 ```
 
 ### FIX on Error: The certificate of `raw.githubusercontent.com' is not trusted.
