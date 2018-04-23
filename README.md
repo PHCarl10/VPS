@@ -1,4 +1,4 @@
-# Deb7 VPSAutoScript
+# VPSAutoScript (Debian 7)
 
 Deb7 VPSAutoScript is made by PHCarl to minimize the time consumed and user involvement in setting up your VPS
 
